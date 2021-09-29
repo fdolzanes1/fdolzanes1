@@ -1,5 +1,3 @@
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 
 ## hi 👋, I'm Fabiano Dolzanes  <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="dev" width="40" height="40"/>
 
