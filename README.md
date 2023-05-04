@@ -2,7 +2,7 @@
 ## hi 👋, I'm Fabiano Dolzanes  <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="dev" width="40" height="40"/>
 
 ### about me
-I'm Software Engineer focused in Ruby on Rails 
+I'm Software Development Engineer 
 
  - I'm currently working on a FIT - Flextronics Institute of Technology
  - I'm currently learning everything
